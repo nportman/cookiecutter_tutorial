@@ -1,6 +1,6 @@
 # cookiecutter_tutorial
 
-## Cookiecutter dependencies that have to be installed on yuor Windows 10 machine
+## Cookiecutter dependencies that have to be installed on your Windows 10 machine
 ### Step 1.  Check if Python is installed by issueing a command python --version 
 ### Step 2. If Python is an unrecognized command, install python as follows:
 #### Browse to python.org/downloads/release/python-394 and click on "Windows installer(64-bit)". 
