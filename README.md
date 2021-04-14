@@ -18,7 +18,7 @@
 ### 3. Create a repository name (eg. kitchen) (alternatively, you can create a github repository) on a master branch
 ### 4. Git clone your empty repository:
 #### git clone https://your_user_name@bitbucket.org/your_workspace_name/kitchen.git
-#### alternatively, git clone https://github.com/your_user_name/cookiecutter_tutorial.git
+#### alternatively, git clone https://github.com/your_user_name/kitchen.git
 ### 5. cd kitchen
 
 ## Create project skeleton
